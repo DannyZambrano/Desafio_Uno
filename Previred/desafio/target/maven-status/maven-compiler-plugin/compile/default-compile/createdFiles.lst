@@ -1,0 +1,5 @@
+com\previred\desafio\services\DesafioService.class
+com\previred\desafio\controller\DesafioController.class
+com\previred\desafio\DesafioApplication.class
+com\previred\desafio\services\DesafioServiceImpl.class
+com\previred\desafio\model\Fecha.class
